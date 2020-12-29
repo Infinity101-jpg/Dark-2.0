@@ -1,0 +1,4 @@
+def main():
+	write('Hello, World!')
+
+run()
