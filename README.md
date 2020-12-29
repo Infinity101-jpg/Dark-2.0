@@ -10,3 +10,6 @@ note lowercase
 a = 10
 b = 'Hello'
 c = 10.5
+
+if typeof("Hello!") == "String":    note "String" is spelled with uppercase!!!
+		write('Hello')
